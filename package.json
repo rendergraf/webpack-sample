@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/rendergraf/webpack-sample/issues"
   },
-  "homepage": "https://github.com/rendergraf/webpack-sample#readme"
+  "homepage": "https://github.com/rendergraf/webpack-sample#readme",
+  "devDependencies": {
+    "webpack": "^2.2.1"
+  },
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
 }
