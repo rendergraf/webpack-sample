@@ -1,0 +1,23 @@
+{
+  "name": "webpack-sample",
+  "version": "1.0.0",
+  "description": "Prueba de Webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rendergraf/webpack-sample.git"
+  },
+  "keywords": [
+    "webpack",
+    "es6"
+  ],
+  "author": "Xavier Araque",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rendergraf/webpack-sample/issues"
+  },
+  "homepage": "https://github.com/rendergraf/webpack-sample#readme"
+}
